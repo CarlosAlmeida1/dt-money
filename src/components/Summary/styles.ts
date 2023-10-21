@@ -5,6 +5,7 @@ export const SummaryContainer = styled.section`
   max-width: 1120px;
   margin: 0 auto;
   padding: 0 1.5rem;
+  color: ${(props) => props.theme['white']};
 
   display: grid;
   grid-template-columns: repeat(3, 1fr);
