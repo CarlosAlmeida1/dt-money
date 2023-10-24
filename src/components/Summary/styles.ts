@@ -12,7 +12,13 @@ export const SummaryContainer = styled.section`
   gap: 2rem;
 
   margin-top: -5rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
 `;
+
 interface SummaryCardProps {
   variant?: 'green';
 }
@@ -40,4 +46,7 @@ export const SummaryCard = styled.div<SummaryCardProps>`
     css`
       background: ${props.theme['green-700']};
     `}
+
+
+};
 `;

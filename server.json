@@ -13,16 +13,8 @@
       "description": "Hamburger",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 60,
+      "price": 500,
       "createdAt": "2023-10-23T15:31:59.175Z"
-    },
-    {
-      "id": 3,
-      "description": "Restaurante Daimaru",
-      "type": "outcome",
-      "category": "Alimentação",
-      "price": 190,
-      "createdAt": "2023-10-25T12:00:59.175Z"
     }
   ]
 }
