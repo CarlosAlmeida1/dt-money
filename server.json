@@ -1,20 +1,20 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Desevolvimento de software",
+      "category": "Trabalho",
+      "price": 10000,
       "type": "income",
-      "category": "Venda",
-      "price": 12000,
-      "createdAt": "2023-10-23T19:31:59.175Z"
+      "createdAt": "2023-10-27T18:54:31.065Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "description": "Hamburger",
+      "description": "Água e luz",
+      "category": "Despesas ",
+      "price": 300,
       "type": "outcome",
-      "category": "Alimentação",
-      "price": 500,
-      "createdAt": "2023-10-23T15:31:59.175Z"
+      "createdAt": "2023-10-27T18:55:08.098Z",
+      "id": 2
     }
   ]
 }
