@@ -7,14 +7,6 @@
       "type": "income",
       "createdAt": "2023-10-27T18:54:31.065Z",
       "id": 1
-    },
-    {
-      "description": "Água e luz",
-      "category": "Despesas ",
-      "price": 300,
-      "type": "outcome",
-      "createdAt": "2023-10-27T18:55:08.098Z",
-      "id": 2
     }
   ]
 }
